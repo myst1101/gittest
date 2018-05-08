@@ -1,1 +1,5 @@
 This is a test, nothing serious!
+This is a change to the file
+This is another change 
+Yet another change
+A final change
